@@ -1,7 +1,8 @@
 # About this notebeeok
 
-In this notebook, I will examine the change in weather over the last 40 years in the Ruhr region. <br>
-I work with data that I query via [www.openweather.org]('https://openweathermap.org/'). Since I am not a weather expert, but this notebook is mainly for training purposes (on the one hand the query of APIs on the other hand the visualization of data), I limit myself to the observation of temperature and precipitation at four locations in the Ruhr area. These locations are: Duisburg, Essen, Bochum and Dortmund. A map of the Ruhr area can be found [here]('https://de.wikipedia.org/wiki/Ruhrgebiet#/media/Datei:Ruhr_area-administration.png').
+In this notebook I query the geo coordinates of 4 German cities using openweathermap's geocoding API to query the current weather of these cities in the next step from [www.openweathermap.org]('https://openweathermap.org/'). 
+
+The primary goal of this notebook is to demonstrate the process of working with APIs to collect and analyze weather data, as well as to visualize the findings. 
 
 
 ## Requirements and Environment
