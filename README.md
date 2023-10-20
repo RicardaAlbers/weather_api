@@ -1,6 +1,8 @@
 # About this notebeeok
+ 
+In this notebook, I use the OpenWeatherMap geocoding API to retrieve the geographic coordinates of 4 German cities (Hamburg, Düsseldorf, Berlin and Munic). My goal is to then retrieve the current weather in these cities from OpenWeatherMap and perform further analysis. I will use Python, the Pandas library and Requests to collect and analyze the data.
 
-In this notebook I query the geo coordinates of 4 German cities using openweathermap's geocoding API to query the current weather of these cities in the next step from [www.openweathermap.org]('https://openweathermap.org/'). 
+[www.openweathermap.org]('https://openweathermap.org/')
 
 The primary goal of this notebook is to demonstrate the process of working with APIs to collect and analyze weather data, as well as to visualize the findings. 
 
